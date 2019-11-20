@@ -1,0 +1,8 @@
+{
+  "name": "hexo-filename-date",
+  "version": "0.1.0",
+  "description": "A simple Hexo plugin to automatically set the post date based on its filename",
+  "main": "index.js",
+  "author": "Nadav Ivgi",
+  "license": "MIT"
+}
